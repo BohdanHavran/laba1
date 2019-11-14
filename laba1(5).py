@@ -1,4 +1,4 @@
-alphabet = "abcdefghijklmnopqrstuvwxyzaабвгґдеєжзиіїйклмнопрстуфхцчшщьюяа12345678901234567890"
+alphabet = "abcdefghijklmnopqrstuvwxyzaабвгґдеєжзиіїйклмнопрстуфхцчшщьюяа12345678901"
 
 while True:
     encrypt = input("Enter text: ")
